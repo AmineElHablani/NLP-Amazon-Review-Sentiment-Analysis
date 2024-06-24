@@ -17,3 +17,5 @@ In this project:
 - **Model Evaluation:** Performance metrics such as ROC-AUC score and accuracy were used to compare and identify the best-performing model for sentiment analysis on Amazon reviews.
 
 This project's outcomes provide valuable insights and recommendations for selecting an optimal model for similar sentiment analysis tasks.
+
+### NB: If there is a problem with visualization, you can view the notebook on https://nbviewer.org/ by copying the link of the notebook there.
